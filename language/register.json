@@ -2,13 +2,15 @@
     {
         "lang_code": "pt",
         "content": {
-            "header": "Isso é só um teste"
+            "header": "Isso é só um teste",
+            "btnSignup": "ME APERTE"
         }
     },
     {
         "lang_code": "en",
         "content": {
-            "header": "This is just a test"
+            "header": "This is just a test",
+            "btnSignup": "PUSH ME"
         }
     }
 ]
