@@ -3,6 +3,7 @@
   "colors": {
     "primary": "#3772a9",
     "secondary": "#3aa66e",
+    "secondaryHover": "#33915A",
     "tertiary": "#f6e363",
     "primaryText": "#333",
     "secondaryText": "#fff",
