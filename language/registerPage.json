@@ -1,12 +1,5 @@
 [
     {
-        "lang_code": "pt",
-        "content": {
-            "header": "Oi John",
-            "btnSignup": "ME APERTE"
-        }
-    },
-    {
         "lang_code": "en",
         "content": {
             "header": "Hello John",
