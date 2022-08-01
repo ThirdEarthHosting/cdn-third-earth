@@ -1,0 +1,24 @@
+[
+    {
+        "lang_code": "pt",
+        "content": {
+            "header": "Oi John",
+            "btnSignup": "ME APERTE"
+        }
+    },
+    {
+        "lang_code": "en",
+        "content": {
+            "banner": {
+              "btnLetsGo": "Test"
+            }
+        }
+    },
+    {
+        "lang_code": "es",
+        "content": {
+            "header": "Hola John",
+            "btnSignup": "APERTA ME"
+        }
+    }
+]
