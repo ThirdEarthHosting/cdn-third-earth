@@ -22,6 +22,10 @@
                     },
                     "btnUrbit": "Explore Less!"
                 }
+            },
+            "nonexistingsettingbundle": {
+                "setting1": "six",
+                "setting2": "seven"
             }
         }
     },
