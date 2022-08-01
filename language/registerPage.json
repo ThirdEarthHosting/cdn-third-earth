@@ -1,0 +1,16 @@
+[
+    {
+        "lang_code": "en",
+        "content": {
+            "header": "Hello John",
+            "btnSignup": "PUSH ME"
+        }
+    },
+    {
+        "lang_code": "es",
+        "content": {
+            "header": "Hola John",
+            "btnSignup": "APERTA ME"
+        }
+    }
+]
