@@ -12,6 +12,10 @@
             "banner": {
               "btnLetsGo": "Test"
             }
+            "secondChild": {
+              "grandChild": "hello",
+              "childTest": "testing"
+            }
         }
     },
     {
