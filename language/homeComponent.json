@@ -10,12 +10,19 @@
         "lang_code": "en",
         "content": {
             "banner": {
-              "btnLetsGo": "Test"
+                "title": "Hosting",
+                "btnLetsGo": "Let's Not go"
             },
-            "secondChild": {
-              "grandChild": "hello",
-              "childTest": "testing"
-            }
+            "urbit": {
+                "title": "Why is Urbit?",
+                "cards": {
+                    "cardId": {
+                        "title": "Urbit IP",
+                        "description": "Is really confusing"
+                    },
+                    "btnUrbit": "Explore Less!"
+                }
+            },
         }
     },
     {
