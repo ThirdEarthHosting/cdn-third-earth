@@ -1,3 +1,4 @@
 {
-    "aboutWe": true
+    "aboutWe": true,
+    "suppress_purchase": false
 }
